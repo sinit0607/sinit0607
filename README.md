@@ -1,6 +1,15 @@
 # Hi, I'm Sinit Nakrani 👋
 
-### Senior Flutter Developer | Product Builder | Real-Time & AI Applications
+### Senior Flutter Developer • Product Builder • Real-Time & AI
+
+I build and ship production-ready mobile products with **Flutter**, **WebRTC**, **Firebase**, and **AI**.
+
+**5+ years of experience** turning product ideas into scalable iOS & Android applications — from architecture and development to backend integration, deployment, and monetization.
+
+[![GitHub](https://img.shields.io/badge/GitHub-sinit0607-181717?style=for-the-badge&logo=github)](https://github.com/sinit0607)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)](https://webrtc.org/)
 
 I build production-ready mobile applications that are designed to scale, perform, and generate real-world value.
 
