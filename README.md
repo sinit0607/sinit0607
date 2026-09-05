@@ -1,70 +1,107 @@
 # Hi, I'm Sinit Nakrani 👋
 
-### Senior Flutter Developer & Product Manager
+### Senior Flutter Developer | Product Builder | Real-Time & AI Applications
 
-I build mobile products that are designed to generate revenue, scale efficiently,
-and solve real-world problems.
+I build production-ready mobile applications that are designed to scale, perform, and generate real-world value.
 
-With 5+ years of experience in Flutter development, I work across the complete
-product lifecycle — from idea and architecture to development, deployment,
-monetization, and growth.
+With 5+ years of experience in Flutter development, I work across the complete product lifecycle — from product ideas and architecture to development, backend integration, deployment, and monetization.
 
-### 🚀 What I Build
+---
 
-- 📱 iOS & Android applications with Flutter
-- ⚡ High-performance mobile applications
-- 🔥 Firebase & Node.js backends
-- 🌐 REST APIs & real-time systems
-- 💰 Revenue-driven mobile products
-- 🎥 WebRTC / real-time communication systems
+## 🚀 What I Build
+
+- 📱 High-performance Flutter applications
+- 🍎 iOS & 🤖 Android applications
+- 🎥 WebRTC voice & video communication
+- 🔴 Real-time communication & live streaming
 - 🤖 AI-powered applications
-- 📊 Scalable product architectures
+- 🔥 Firebase & backend integrations
+- 🌐 REST APIs & real-time systems
+- 💰 Revenue-focused mobile products
+- ⚡ Scalable and maintainable architectures
 
-### 🛠️ Tech Stack
+---
 
-**Mobile**
-Flutter · Dart · Android · iOS
+## 🛠️ Tech Stack
 
-**Backend**
-Firebase · Node.js · REST APIs
+### Mobile
 
-**Real-Time**
-WebRTC · WebSockets
+`Flutter` `Dart` `Android` `iOS`
 
-**AI**
-Claude · AI-powered application development
+### Backend & Cloud
 
-**Tools**
-Git · GitHub · CI/CD
+`Firebase` `Node.js` `REST API` `WebSocket`
 
-### 📦 Featured Projects
+### Real-Time
 
-#### 🎥 RTC Call Kit
-Real-time voice and video communication infrastructure
-built around WebRTC.
+`WebRTC` `RTC` `Voice Calling` `Video Calling` `Live Streaming`
 
-#### 📱 Emoji Battery Status Bar
-A production mobile application built and launched end-to-end
-in 10 days.
+### AI
 
-#### 🤖 ListPro AI
-AI-powered product currently under development.
+`Claude` `AI APIs` `AI-assisted Development`
 
-### 💡 My Approach
+### Tools
 
-I don't just write code.
+`Git` `GitHub` `CI/CD` `Android Studio` `Xcode`
+
+---
+
+## 🔥 Featured Projects
+
+### 🎥 RTC Call Kit
+
+A WebRTC-based real-time communication system for building:
+
+- Voice calls
+- Video calls
+- Group calls
+- Real-time communication
+- Live streaming
+
+Currently evolving toward a developer-focused RTC platform.
+
+---
+
+### 📱 Production Mobile Applications
+
+I build and publish complete mobile products — from initial concept and UI/UX through backend integration, deployment, and monetization.
+
+---
+
+## 💡 How I Work
+
+I don't just focus on writing code.
 
 I focus on building products that are:
 
-- Scalable
-- Maintainable
-- Fast
-- Monetizable
-- Easy to use
-- Ready for production
+- ⚡ Fast
+- 📈 Scalable
+- 🧩 Maintainable
+- 🔐 Reliable
+- 💰 Monetizable
+- 🚀 Production-ready
 
-### 🌎 Open To
+I enjoy working closely with product ideas, solving technical problems, and turning concepts into working applications.
 
-Remote opportunities · Freelance · Startup collaborations · Consulting
+---
 
-📫 Feel free to connect with me through GitHub.
+## 🌎 Open To
+
+- Remote Flutter opportunities
+- Startup collaborations
+- Freelance projects
+- Product development
+- Real-time communication projects
+- AI-powered applications
+
+---
+
+## 📫 Let's Connect
+
+If you're building something interesting with Flutter, WebRTC, AI, or mobile technology, feel free to connect.
+
+⭐ If you find something useful here, consider starring the repository.
+
+---
+
+### 🚀 Building. Shipping. Scaling.
