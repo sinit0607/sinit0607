@@ -77,6 +77,45 @@ I build and publish complete mobile products — from initial concept and UI/UX 
 
 ---
 
+
+## 📱 Published Applications
+
+### ⚡ Emoji Battery Status Bar
+
+A production Android application that transforms the boring battery indicator into an animated character that reacts to your battery level.
+
+**Highlights**
+
+- 🎨 134 character skins across 13 packs
+- 🔋 Dynamic battery-state reactions
+- ✨ Animated status bar characters
+- 🌙 Automatic night skin
+- 🔀 Daily skin shuffle
+- 📱 Android native system integration
+- 🔒 No account or sign-up required
+
+[**View on Google Play →**](https://play.google.com/store/apps/details?id=com.voltz.voltz&hl=en_IN)
+
+---
+
+### 🧰 Social Toolkit: Status Saver
+
+An all-in-one social media utility application combining multiple everyday tools into a single lightweight Android app.
+
+**Features**
+
+- 💬 Direct chat without saving a number
+- 📥 Status saver
+- ✨ DP enhancer
+- 🤖 AI caption generator
+- 👤 AI bio generator
+- 🔤 Stylish text & fonts
+- 🔳 QR scanner & generator
+- 🖼️ Image compressor
+- 🎬 Video compressor
+
+[**View on Google Play →**](https://play.google.com/store/apps/details?id=com.socialtoolkit.social_toolkit&hl=en_IN)
+
 ## 💡 How I Work
 
 I don't just focus on writing code.
